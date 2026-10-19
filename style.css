@@ -1,0 +1,44 @@
+.main-wrapper {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.menu-card {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+}
+
+.menu-card .card-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #212529;
+}
+
+.menu-card .card-text {
+    color: #212529;
+    margin-bottom: 0;
+}
+
+.konten-title {
+    font-weight: 700;
+    color: #212529;
+    margin-bottom: 1rem;
+}
+
+.card.bg-dark {
+    border: none;
+    border-radius: 6px;
+}
+
+.card.bg-dark .card-title {
+    font-weight: 500;
+}
+
+header .btn-primary {
+    border: none;
+}
+
+footer a {
+    text-decoration: underline;
+}
